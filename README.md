@@ -4,6 +4,12 @@
 
 A simple and clean personal task management app built with React.js. This project allows users to log in with a username, add/edit/delete tasks, mark them as completed, and filter tasks based on status. All task data is saved in localStorage so it persists across refreshes.
 
+
+## NOTE
+
+Refresh the page after Login.
+
+
 ##  Features
 
 -  Simple login using localStorage
@@ -35,7 +41,8 @@ A simple and clean personal task management app built with React.js. This projec
 ![All Task](public/allTask.png)
 
 
-
+## Live Link
+personaltasktrackerap.netlify.app
 
 
 ## 🛠 Setup Instructions
