@@ -43,7 +43,7 @@ A simple and clean personal task management app built with React.js. This projec
 1. **Clone the repository**
 
    ```bash
-   git clone 
+   git clone https://github.com/WasiuzzamanAnsari/Task-Tracker-App.git
    cd personal-task-tracker
    Run `npm install`
    Run `npm start`
